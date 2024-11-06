@@ -1,50 +1,38 @@
-# リードミー
-読み終わった**IT技術書のレビューを投稿**し、情報を共有してユーザー同士で**IT技術の勉強教材の選別に役立てる**ことを目的としたアプリです。  
+# りーどみー
+## アプリ概要
+アプリの**概要**をここに**書く**。  
 
-![home](https://github.com/user-attachments/assets/ab0c7039-94b4-40bf-8bb5-fa69ceb59827)
+**ホーム画面**
+![home](https://github.com/user-attachments/assets/fdd0d0b2-fe9c-4364-a7c3-58efa6a24a5f)
 
-## 主な機能
-  ### ユーザー新規登録機能
-  <details><summary>ユーザーの新規登録機能</summary>
-  
-  #### ユーザーの新規登録が可能  
-  ![image](https://github.com/user-attachments/assets/aa72eb3d-7dee-4b8c-9b28-c506e50e62e7)
-   
-   ---
-  ![image](https://github.com/user-attachments/assets/7eba9a8c-0117-4659-a7f8-89bc54da1498)
-  </details>
-  
-  ### ログイン機能
-  <details><summary>ログイン機能</summary>
+## 主な機能：管理者側
+  ### ログイン、ログアウト機能
+  <details><summary>ログイン、ログアウト画面</summary>
 
-  #### ユーザーのログインが可能
-  ![image](https://github.com/user-attachments/assets/28dc585d-8828-4df3-811c-f12a17ed5548)
-  
+  #### 管理者のログイン、ログアウトが可能
+  ![image](https://github.com/user-attachments/assets/aeb3d5cd-3960-43af-a7ae-058a520adeaf)
+
   ---
- ![image](https://github.com/user-attachments/assets/e83de452-cfe3-45db-a1a6-372b2f125f13)
+  ![image](https://github.com/user-attachments/assets/b21babf5-eca3-4aaf-8382-454c7c431005)
+ </details>
   
-  </details>
-  
-  ### 投稿一覧表示
-  <details><summary>投稿一覧表示</summary>
+  ### 商品一覧表示
+  <details><summary>商品一覧表示画面</summary>
 
-  #### 一覧にて各ユーザーが投稿したIT技術書レビューを確認可能
- ![postList](https://github.com/user-attachments/assets/c52e3f67-2ce5-47a7-a075-6ccab27ca4dc)
+  #### 一覧にて登録されている商品一覧を確認可能
+ ![postList](https://github.com/user-attachments/assets/cd982fc5-990b-4a2c-a83f-301c1159faca)
   </details>
 
   ### CRUD機能
-  <details><summary>投稿新規作成</summary>
+  <details><summary>商品新規登録</summary>
 
-  #### 投稿を新規作成することが可能
-  ![postCreate](https://github.com/user-attachments/assets/395a450f-df0b-43ab-99b1-7e38b36d963a)  
-  
-  ---
-  ![postCreate_success_](https://github.com/user-attachments/assets/a30abdcd-7383-4c80-9490-3c86d7578e12)
-
+  #### 商品を新規登録することが可能
+  ![postCreate](https://github.com/user-attachments/assets/3496b3a0-2dec-4bf1-a66c-4cc46d037768)
   </details>
-  <details><summary>投稿詳細表示</summary>
+  
+  <details><summary>商品詳細表示</summary>
 
-  #### 投稿の詳細を確認することが可能
+  #### 商品の詳細を確認することが可能
   - **ログインユーザー**が作成した投稿の詳細ページ
 　![postDetail_login_user](https://github.com/user-attachments/assets/912ca3d2-78c2-44c4-8de6-42ff527d8708)
   ---
