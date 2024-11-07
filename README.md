@@ -5,7 +5,7 @@
 **ホーム画面**
 ![スクリーンショット (75)](https://github.com/user-attachments/assets/2017644c-a3f2-4cd0-aed9-8befe9d2485b)
 
-## 主な機能：会員側
+## 機能：会員側
   ### ログイン、ログアウト
   <details><summary>ログイン、ログアウト画面</summary>
     
@@ -64,7 +64,7 @@
   </details>
 
 
-## 主な機能：管理者側
+## 機能：管理者側
   ### ログイン、ログアウト
   <details><summary>ログイン、ログアウト画面</summary>
 
