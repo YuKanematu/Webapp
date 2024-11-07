@@ -1,12 +1,12 @@
-# りーどみー
+# VJava ECサイト
 ## アプリ概要
-アプリの**概要**をここに**書く**。  
+**チーム開発**で制作したVチューバーグッズの**ECサイト** 
 
-**ホーム画面**
+**ホーム画面（仮）**
 ![home](https://github.com/user-attachments/assets/fdd0d0b2-fe9c-4364-a7c3-58efa6a24a5f)
 
 ## 主な機能：管理者側
-  ### ログイン、ログアウト機能
+  ### ログイン、ログアウト
   <details><summary>ログイン、ログアウト画面</summary>
 
   #### 管理者のログイン、ログアウトが可能
@@ -33,60 +33,53 @@
   <details><summary>商品詳細表示</summary>
 
   #### 商品の詳細を確認することが可能
-  - **ログインユーザー**が作成した投稿の詳細ページ
-　![postDetail_login_user](https://github.com/user-attachments/assets/912ca3d2-78c2-44c4-8de6-42ff527d8708)
-  ---
-  - **他のユーザー**が作成した投稿の詳細ページ
-  ![postDetail_another_user](https://github.com/user-attachments/assets/1ca9dad9-c3a1-41ba-bc00-fed535f6bf1f)
-
+  - 商品の詳細ページ
+  ![スクリーンショット (42)](https://github.com/user-attachments/assets/27abf072-ec75-4ba5-9e04-bd7758e7cde9)
   </details>
-  <details><summary>投稿編集機能</summary>
-
-  #### 投稿を編集することが可能
-  - 編集フォームにて編集後、更新ボタンを押下
-   ![postEdit](https://github.com/user-attachments/assets/6c170549-c932-4bbd-872a-705027ae70e0)
-  ---
-  - 投稿編集後、投稿一覧
-   ![postEdit_success](https://github.com/user-attachments/assets/c3524566-91cc-47ab-a159-65cd3d96606b)
-  ---
-  - 投稿編集後、投稿詳細
-  ![edit_after_postDetail](https://github.com/user-attachments/assets/d41f7147-5fe8-441f-befb-76b77139028c)
-
-  </details>
-  <details><summary>投稿削除機能</summary>
-
-  #### 投稿を削除することが可能  
-  ![postDelete_confirm](https://github.com/user-attachments/assets/e12ae4cc-c6b7-4eb5-b334-5e181d49f1db)　
- 
-  ---
-  ![postDelete_success](https://github.com/user-attachments/assets/b40c3339-bc2f-4644-a6a5-9b7e55d2e8d7)
-
-  </details>
-
-
-  ### ユーザーの情報編集  
-  <details><summary>ユーザー情報の編集が可能(名前、メールアドレス、プロフィール画像)</summary>  
+  
+  <details><summary>商品編集</summary>
     
- ![image](https://github.com/user-attachments/assets/ef37c491-b360-4725-a9d3-6792d8d53566)
-  
-  --- 
-  ![userEdit_success](https://github.com/user-attachments/assets/0cab8a24-5a22-4199-a81b-545cfed3344e)  
-  
-  ---
-  ![user_picture_set_postList](https://github.com/user-attachments/assets/70ff8454-e601-4e99-8713-b5e5231bda77)
-  
+  #### 商品を編集することが可能
+  - 商品の編集ページ
+  ![スクリーンショット (43)](https://github.com/user-attachments/assets/140754a8-0bde-46d2-9c40-d3b3ce72e5bc)
+
   </details>
   
-  ### ログアウト機能
-   <details><summary>ログアウトボタンを押下するとログアウトしてログイン画面に遷移</summary>
-
-  ![logout_success](https://github.com/user-attachments/assets/48bcb7f8-031c-4c23-a54d-5e722a96d124)
-  </details>
-
-  ### バリデーション
-  <details><summary>各フォームにてバリデーションを処理を実装（バックエンド側）</summary>
+  <details><summary>商品削除</summary>
     
-  ![image](https://github.com/user-attachments/assets/822badb1-3459-4f15-a493-639ed1a7879a)
+  #### 商品を削除することが可能  　
+ ![スクリーンショット (46)](https://github.com/user-attachments/assets/94c54965-c443-45b3-8713-72fd91192997)
+  </details>
+
+
+  ### 会員一覧  
+  <details><summary>会員ステータスの変更が可能</summary>  
+    
+  ![スクリーンショット (49)](https://github.com/user-attachments/assets/13cf3b6e-0597-41a1-9d6a-216b2cab51ce)
+
+  ---  
+  ![スクリーンショット (50)](https://github.com/user-attachments/assets/9b1dcc69-8ae9-4b4a-928f-0fcee9f9bec8)
+
+  ---
+  ![スクリーンショット (51)](https://github.com/user-attachments/assets/dcc93071-5ffc-485f-b53f-b11cb75c2ce9)
+  </details>
+  
+  ### 注文履歴一覧
+   <details><summary>注文履歴の検索、編集が可能</summary>
+     
+  ![スクリーンショット (53)](https://github.com/user-attachments/assets/72a7bbb1-e367-4b9b-b83e-7bb5d3ce1da9)
+
+  ---
+  ![スクリーンショット (59)](https://github.com/user-attachments/assets/01b31053-d512-49b8-bd96-393d9f5f56a1)
+  </details>
+
+  ### キャラクター一覧
+  <details><summary>キャラクターの新規登録、編集、削除が可能</summary>
+    
+![スクリーンショット (69)](https://github.com/user-attachments/assets/1ba29631-0d93-4936-bea2-79a20595c250)
+
+  ---
+![スクリーンショット (63)](https://github.com/user-attachments/assets/4340838b-1043-408c-b421-e2194470af48)
 
   </details>
   
