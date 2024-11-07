@@ -5,6 +5,19 @@
 **ホーム画面**
 ![スクリーンショット (75)](https://github.com/user-attachments/assets/2017644c-a3f2-4cd0-aed9-8befe9d2485b)
 
+
+
+## ER図
+<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
+
+## ER図
+<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
+
+## ER図
+<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
+
+
+
 ## 機能：会員側
   ### ログイン、ログアウト
   <details><summary>ログイン、ログアウト画面</summary>
@@ -139,14 +152,3 @@
   ---
 ![スクリーンショット (63)](https://github.com/user-attachments/assets/4340838b-1043-408c-b421-e2194470af48)
   </details>
-
-
-## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
-
-## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
-
-## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
-
