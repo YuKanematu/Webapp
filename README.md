@@ -44,12 +44,11 @@
   ![スクリーンショット (80)](https://github.com/user-attachments/assets/2650913e-cdf2-4089-be33-da8c6069db47)
   </details>
 
+<details><summary>購入情報確認</summary>
+
   #### 購入情報を確認、購入することが可能
   - 購入情報確認ページ
   ![スクリーンショット (81)](https://github.com/user-attachments/assets/2b884660-7931-4ba5-ae8d-356e93f824a4)
-
-  ---
-  ![スクリーンショット (82)](https://github.com/user-attachments/assets/0d29c98d-8c78-4d7e-8ecd-18b776125d7c)
   </details>
 
   ### 会員情報詳細 
@@ -58,7 +57,7 @@
   ![スクリーンショット (83)](https://github.com/user-attachments/assets/c0f1e10a-4e1f-47df-884e-338425a06307)
 
   ---  
-  ![![スクリーンショット (84)](https://github.com/user-attachments/assets/322709b9-f94f-4374-9ec9-29cc0e1f033d)
+  ![スクリーンショット (84)](https://github.com/user-attachments/assets/322709b9-f94f-4374-9ec9-29cc0e1f033d)
 
   ---
   ![スクリーンショット (85)](https://github.com/user-attachments/assets/f1479590-9c94-452e-93ce-334a15c892c6)
