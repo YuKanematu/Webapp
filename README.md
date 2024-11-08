@@ -22,7 +22,7 @@
   ### ログイン、ログアウト
   <details><summary>ログイン、ログアウト画面</summary>
     
-  #### 管理者のログイン、ログアウトが可能
+  #### 会員のログイン、ログアウトが可能
 ![スクリーンショット (72)](https://github.com/user-attachments/assets/d6889f83-f224-488f-92b0-2a6cc72033bd)
 
   ---
