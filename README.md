@@ -5,16 +5,20 @@
 **ホーム画面**
 ![スクリーンショット (75)](https://github.com/user-attachments/assets/2017644c-a3f2-4cd0-aed9-8befe9d2485b)
 
+## UIフロー図（会員側）
+<img src="https://github.com/user-attachments/assets/c269f700-e3b5-4bcb-81e8-f292f591dd1e" alt="UIフロー図（会員側）" width="600">
 
-
-## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
-
-## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
+## UIフロー図（管理者側）
+<img src="https://github.com/user-attachments/assets/a8bf4530-5dc6-4182-9f03-c113c7a60b7c" alt="UIフロー図（管理者側）" width="600">
 
 ## ER図
-<img src="https://github.com/user-attachments/assets/0a77af8c-d2fb-4366-b997-9ff72193fd42" alt="ER図" width="600">
+<img src="https://github.com/user-attachments/assets/d8290a1e-258e-4d0a-b3b1-f3f973190a28" alt="ER図" width="600">
+
+## ルーティング設計（会員側）
+<img src="https://github.com/user-attachments/assets/36da7522-ee8f-4c05-b129-b9e99a78917c" alt="ルーティング設計（会員側）" width="600">
+
+## ルーティング設計（管理者側）
+<img src="https://github.com/user-attachments/assets/2c670c87-3bf1-4655-ba00-8376cbe97468" alt="ルーティング設計（管理者側）" width="600">
 
 
 
