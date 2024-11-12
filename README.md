@@ -6,22 +6,6 @@
 ![スクリーンショット (75)](https://github.com/user-attachments/assets/2017644c-a3f2-4cd0-aed9-8befe9d2485b)
 
 ## 設計書
-<details><summary>UIフロー図</summary>
-    
-![UIフロー図(会員)](https://github.com/user-attachments/assets/c6d8ccc0-dbba-47f4-8c31-dba71a644197)
-
----
-![UIフロー図(管理者)](https://github.com/user-attachments/assets/b029776b-a41d-46aa-85f2-55e5ee40ff34)
-</details>
-  
-<details><summary>ルーティング設計</summary>
-  
-![ルーティング設計(会員)](https://github.com/user-attachments/assets/2d3853a4-4fa1-43b8-903e-edbb5ad60131)
-
----
-![ルーティング設計(管理者)](https://github.com/user-attachments/assets/23c13b9f-075b-48d9-87d5-b971c15dbdcc)
-</details>
-
 <details><summary>ER図</summary>
     
 ![ER](https://github.com/user-attachments/assets/3abf5661-ba24-4128-8a6b-a8b723315577)
@@ -35,9 +19,29 @@
 ![機能一覧(管理者)](https://github.com/user-attachments/assets/a0f16cd4-b823-4b8d-b196-97cfc93cf650)
 </details>
 
+<details><summary>ルーティング設計</summary>
+  
+![ルーティング設計(会員)](https://github.com/user-attachments/assets/2d3853a4-4fa1-43b8-903e-edbb5ad60131)
 
+---
+![ルーティング設計(管理者)](https://github.com/user-attachments/assets/23c13b9f-075b-48d9-87d5-b971c15dbdcc)
+</details>
 
+<details><summary>UIフロー図</summary>
+    
+![UIフロー図会員サイド](https://github.com/user-attachments/assets/df133d30-955d-449e-9c2c-1ac9f94e684e)
 
+---
+![UIフロー図管理者サイド](https://github.com/user-attachments/assets/c111ee56-a41d-437c-89d8-91dcd51c96df)
+</details>
+  
+<details><summary>ワイヤーフレーム</summary>
+    
+![ワイヤーフレーム会員サイド](https://github.com/user-attachments/assets/5529b1e8-7b7f-4237-a987-8ae825962a40)
+
+---
+![ワイヤーフレーム管理者サイド](https://github.com/user-attachments/assets/3d2a6ce5-290d-4fdb-9ea8-7155f5d90228)
+</details>
 
 
 ## 機能：会員側
