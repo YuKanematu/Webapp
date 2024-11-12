@@ -21,7 +21,7 @@
 
 <details><summary>ルーティング設計</summary>
   
-![ルーティング設計(会員)](https://github.com/user-attachments/assets/2d3853a4-4fa1-43b8-903e-edbb5ad60131)
+![ルーティング設計(会員)](https://github.com/user-attachments/assets/6e014357-05d0-4e3b-a7ce-80229791ffad)
 
 ---
 ![ルーティング設計(管理者)](https://github.com/user-attachments/assets/23c13b9f-075b-48d9-87d5-b971c15dbdcc)
